@@ -23,3 +23,5 @@ The JSON data is parsed using the org.json library, and the results are printed 
 This task reinforces core Java concepts such as network programming, API integration, and JSON data handling. It provides practical experience in working with external data sources—an essential skill for modern software developers building web-enabled or data-driven applications.
 
 # OUTPUT 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e1bc7fd7-b9b9-42f9-aec8-1a678d2f239c" />
